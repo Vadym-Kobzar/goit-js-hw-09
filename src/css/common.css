@@ -16,3 +16,31 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.label {
+  font-weight: 800;
+  text-transform: uppercase;
+  color: peru;
+}
+.value {
+  font-size: xxx-large;
+  font-weight: 600;
+  color: brown;
+}
+button {
+  font-size: large;
+  background-color: chocolate;
+  color: bisque;
+  border-color: sienna;
+}
+#datetime-picker {
+  box-sizing: border-box;
+  font-size: large;
+  font-weight: bold;
+  font-size: large;
+  border-radius: 30%;
+  text-align: center;
+  border-color: rgb(93, 76, 31);
+  border-style: dotted;
+  box-shadow: 10px 5px 5px rgb(102, 58, 4);
+}
